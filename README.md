@@ -1,2 +1,3 @@
 # hello-world
 learning repo's,branches, commits,and pull requests
+my name is justin, i am a jack of all trades, i know alot about a lot of various different trades as far as building or repairing or renovating homus and businesses. sadly i dont know hardly anything about computer and modern or even retro technology, although i can troubleshoot and fix small electronics, i know nothing of this genre of experience. im here to learn master and contribute to the fellow techies in this community to help better our skills and do so safely, while trying to avoid being roasted for my simpleton-like questions! 
